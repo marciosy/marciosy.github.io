@@ -1,0 +1,23 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300;
+	background-color: #f2f2f2;
+}
+
+h1, h2, h3, h4, h5, strong {
+	font-weight: 700;
+}
+
+header .container { 
+	background-color: #d0d0d0;
+	border-bottom: 1px solid #c3c3c3;
+}
+
+section .container{
+	background-color: #e3e3e3;
+}
+
+section.personal-viewpoint .container{
+
+	border-top: 1px solid #ececec
+}
